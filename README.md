@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huy Bui</h1>
 <h3 align="center">A passionate software engineer about to graduate from Purdue University</h3>
 
-- 🌱 I’m currently learning **Data Engineer and Cloud Technology**
+- 🌱 I’m currently interested in **Software Development, Data Engineer and Cloud Technology**
 
 - 📫 How to reach me **huybui110800@gmail.com**
 
